@@ -3,7 +3,6 @@
 This repository contains a PyTorch-based neural network model and an accompanying app (.exe, bundled with instructions for deploying the ML model) designed to predict the calories burned by an individual during a workout session. The project encompasses data preprocessing, model development, training, testing, and generating an .exe app for this model. The model achieved a whopping 0.9915 R² score (closer to 1, the better) in real life scenarios.
 
 https://github.com/user-attachments/assets/a32c3c3b-03f8-4403-9ca5-0331cbf8a540
-</video>
 
 A small demonstration of it's implementation in a local environment (.exe file execution showcased here).
 
