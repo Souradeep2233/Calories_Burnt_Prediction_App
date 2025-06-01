@@ -161,7 +161,8 @@ Here, you would typically include images to visually represent your project's pr
 
 * App GUI Screenshot:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/e6410af6-dc1e-4d9e-b11c-7056ebbc0cd1)
+
 
 
 ## **🤝 Contributing**
